@@ -1,0 +1,42 @@
+.img1{
+
+
+   border: 3px solid black;
+   margin-top: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 20px;
+
+}
+
+ .menu{
+     border :4px solid palevioletred;
+     background-color: bisque;
+
+ }
+  li{
+
+     list-style-type:none;
+     display: inline;
+    padding-left: 100px;
+    margin: 50px;
+  }
+  .content{
+   overflow : auto;
+   border: 3px solid blue;
+   display:inline-block;
+   height: 400px;
+   width: 400px;
+
+  }
+  .container{
+     padding-left: 10px;
+     padding-right: 20px;
+
+  }
+  .list{
+    border : 4px solid green;
+    display: inline-block;
+    margin-left:600px ;
+
+  }
